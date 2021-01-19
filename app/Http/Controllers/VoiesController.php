@@ -71,9 +71,9 @@ class VoiesController extends Controller
         $voie->type_voie = request('type_voie');
         $voie->difficulte = request('difficulte');
         $voie->lieu = request('lieu');
-        $voie->img_un = request('img_un');
-        $voie->img_deux = request('img_deux');
-        $voie->img_trois = request('img_trois');
+        //$voie->img_un = request('img_un');
+        //$voie->img_deux = request('img_deux');
+        //$voie->img_trois = request('img_trois');
         //$voie->realisee = request('realisee');
 
  

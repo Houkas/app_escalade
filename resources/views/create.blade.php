@@ -98,7 +98,7 @@
                                     @enderror  
                                 </div>
                             </div>
-                            <div class="field">
+                            <!--<div class="field">
                                 <label class="label" for="img_un">Première image</label>
                                 <div class="control">
                                     <input type="text" class="
@@ -130,7 +130,7 @@
                                     id="img_trois"
                                     value="{{ old('img_trois') }}">
                                 </div>
-                            </div>
+                            </div>-->
                             <div class="field">
                                 <label class="label" for="lieu">Réalisée ?</label>
                                 <div class="control">
